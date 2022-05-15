@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e92fffdb-b991-408e-8afb-a31608497389" name="Changes" comment="Homework for lesson 4" />
+    <list default="true" id="e92fffdb-b991-408e-8afb-a31608497389" name="Changes" comment="Homework for Lesson 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,6 +144,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Homework4.2" />
+      <item itemvalue="Python.Homework4.3" />
+      <item itemvalue="Python.Homework4.4" />
+      <item itemvalue="Python.Homework4.5" />
+      <item itemvalue="Python.Homework4.7" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Homework4.7" />
