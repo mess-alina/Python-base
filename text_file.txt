@@ -1,0 +1,4 @@
+Good morning
+have a nice day
+This file have some strings
+Let's count the amount of strings and words
